@@ -12,7 +12,7 @@ class About extends React.Component {
               <center>
                 <h2>About Page</h2>
                 <main>
-                    <p>Testing about page</p>
+                    <p>Blank</p>
                 </main>
               </center>
             </div>

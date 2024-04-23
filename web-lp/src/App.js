@@ -17,9 +17,6 @@ class App extends React.Component {
             <li>
               <Link to="/about">About</Link>
             </li>
-            <li>
-              <Link to="/other">Other</Link>
-            </li>
           </ul>
         </nav>
         <Routes>
